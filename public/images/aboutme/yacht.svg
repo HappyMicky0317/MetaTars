@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="yacht" transform="translate(-1053 -1706)">
+    <g id="Group_72" data-name="Group 72" transform="translate(0 272)">
+      <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(1053 1434)" fill="#425b72" stroke="#fff" stroke-width="1">
+        <circle cx="27" cy="27" r="27" stroke="none"/>
+        <circle cx="27" cy="27" r="26.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_76" data-name="Group 76" transform="translate(1062 1725)">
+      <path id="Path_63" data-name="Path 63" d="M552.228,370.374v-.947h-8.265l8.285-9.489-36.554,5.231,2.116,4.252h-2.1v.953Z" transform="translate(-515.694 -354.748)" fill="#fff"/>
+      <path id="Path_64" data-name="Path 64" d="M634.516,318a1.1,1.1,0,0,0-1.009-.5c-1.74.023-3.481.018-5.221,0a.959.959,0,0,1-.6-.238c-.7-.665-1.374-1.359-2.056-2.044-.082-.082-.155-.173-.288-.323h5.617c-.866-.745-1.666-1.392-2.415-2.095a1.7,1.7,0,0,0-1.451-.472c-5.147.422-10.3.8-15.447,1.195-.2.015-.4.046-.743.086.256.231.451.392.63.57.59.584,1.164,1.185,1.766,1.755a.478.478,0,0,1,.117.63c-.578,1.408-1.134,2.825-1.7,4.24-.055.138-.106.277-.185.486Zm-10.521-1.342h-1.27v-.916h1.27Zm-3.89-.92h1.255v.932H620.1Zm-1.344.929H617.5v-.926h1.258Zm-2.613-.939v.937h-1.254v-.937Z" transform="translate(-608.337 -312.312)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

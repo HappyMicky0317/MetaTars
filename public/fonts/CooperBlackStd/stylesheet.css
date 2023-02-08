@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Cooper Std';
+    src: url('CooperBlackStd-Italic.eot');
+    src: url('CooperBlackStd-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CooperBlackStd-Italic.woff2') format('woff2'),
+        url('CooperBlackStd-Italic.woff') format('woff'),
+        url('CooperBlackStd-Italic.ttf') format('truetype'),
+        url('CooperBlackStd-Italic.svg#CooperBlackStd-Italic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cooper Std';
+    src: url('CooperBlackStd.eot');
+    src: url('CooperBlackStd.eot?#iefix') format('embedded-opentype'),
+        url('CooperBlackStd.woff2') format('woff2'),
+        url('CooperBlackStd.woff') format('woff'),
+        url('CooperBlackStd.ttf') format('truetype'),
+        url('CooperBlackStd.svg#CooperBlackStd') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

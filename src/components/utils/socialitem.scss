@@ -1,0 +1,28 @@
+.social-item {
+  width: 12.5%;
+  background-color: rgba(77, 100, 255, 0.1);
+  min-width: 150px;
+  border-radius: 20px;
+  .social-image {
+    margin: 10px;
+    aspect-ratio: 1.08;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: rgba(77, 100, 255, 0.1);
+    img {
+      width: 40%;
+      transition: all 0.3s;
+    }
+  }
+  .social-image:hover {
+    img {
+      transform: rotate(360deg);
+    }
+  }
+  .social-name {
+    color: white;
+    font-size: 15px;
+  }
+}

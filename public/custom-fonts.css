@@ -1,0 +1,193 @@
+@font-face {
+    font-family: 'Cooper Std';
+    src: url('./fonts/CooperBlackStd/CooperBlackStd-Italic.eot');
+    src: url('./fonts/CooperBlackStd/CooperBlackStd-Italic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/CooperBlackStd/CooperBlackStd-Italic.woff2') format('woff2'),
+        url('./fonts/CooperBlackStd/CooperBlackStd-Italic.woff') format('woff'),
+        url('./fonts/CooperBlackStd/CooperBlackStd-Italic.ttf') format('truetype'),
+        url('./fonts/CooperBlackStd/CooperBlackStd-Italic.svg#CooperBlackStd-Italic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cooper Std';
+    src: url('./fonts/CooperBlackStd/CooperBlackStd.eot');
+    src: url('./fonts/CooperBlackStd/CooperBlackStd.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/CooperBlackStd/CooperBlackStd.woff2') format('woff2'),
+        url('./fonts/CooperBlackStd/CooperBlackStd.woff') format('woff'),
+        url('./fonts/CooperBlackStd/CooperBlackStd.ttf') format('truetype'),
+        url('./fonts/CooperBlackStd/CooperBlackStd.svg#CooperBlackStd') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+/* ---- */
+@font-face {
+    font-family: 'Metal Lord';
+    src: url('./fonts/MetalLord/MetalLord-Regular.eot');
+    src: url('./fonts/MetalLord/MetalLord-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/MetalLord/MetalLord-Regular.woff2') format('woff2'),
+        url('./fonts/MetalLord/MetalLord-Regular.woff') format('woff'),
+        url('./fonts/MetalLord/MetalLord-Regular.ttf') format('truetype'),
+        url('./fonts/MetalLord/MetalLord-Regular.svg#MetalLord-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* --- */
+
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('./fonts/Urbanist/Urbanist-Black.eot');
+    src: url('./fonts/Urbanist/Urbanist-Black.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Urbanist/Urbanist-Black.woff2') format('woff2'),
+        url('./fonts/Urbanist/Urbanist-Black.woff') format('woff'),
+        url('./fonts/Urbanist/Urbanist-Black.ttf') format('truetype'),
+        url('./fonts/Urbanist/Urbanist-Black.svg#Urbanist-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('./fonts/Urbanist/Urbanist-MediumItalic.eot');
+    src: url('./fonts/Urbanist/Urbanist-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Urbanist/Urbanist-MediumItalic.woff2') format('woff2'),
+        url('./fonts/Urbanist/Urbanist-MediumItalic.woff') format('woff'),
+        url('./fonts/Urbanist/Urbanist-MediumItalic.ttf') format('truetype'),
+        url('./fonts/Urbanist/Urbanist-MediumItalic.svg#./fonts/Urbanist/Urbanist-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('./fonts/Urbanist/Urbanist-SemiBoldItalic.eot');
+    src: url('./fonts/Urbanist/Urbanist-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Urbanist/Urbanist-SemiBoldItalic.woff2') format('woff2'),
+        url('./fonts/Urbanist/Urbanist-SemiBoldItalic.woff') format('woff'),
+        url('./fonts/Urbanist/Urbanist-SemiBoldItalic.ttf') format('truetype'),
+        url('./fonts/Urbanist/Urbanist-SemiBoldItalic.svg#./fonts/Urbanist/Urbanist-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('./fonts/Urbanist/Urbanist-ExtraLightItalic.eot');
+    src: url('./fonts/Urbanist/Urbanist-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Urbanist/Urbanist-ExtraLightItalic.woff2') format('woff2'),
+        url('./fonts/Urbanist/Urbanist-ExtraLightItalic.woff') format('woff'),
+        url('./fonts/Urbanist/Urbanist-ExtraLightItalic.ttf') format('truetype'),
+        url('./fonts/Urbanist/Urbanist-ExtraLightItalic.svg#./fonts/Urbanist/Urbanist-ExtraLightItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('./fonts/Urbanist/Urbanist-ExtraBold.eot');
+    src: url('./fonts/Urbanist/Urbanist-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Urbanist/Urbanist-ExtraBold.woff2') format('woff2'),
+        url('./fonts/Urbanist/Urbanist-ExtraBold.woff') format('woff'),
+        url('./fonts/Urbanist/Urbanist-ExtraBold.ttf') format('truetype'),
+        url('./fonts/Urbanist/Urbanist-ExtraBold.svg#./fonts/Urbanist/Urbanist-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('./fonts/Urbanist/Urbanist-SemiBold.eot');
+    src: url('./fonts/Urbanist/Urbanist-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Urbanist/Urbanist-SemiBold.woff2') format('woff2'),
+        url('./fonts/Urbanist/Urbanist-SemiBold.woff') format('woff'),
+        url('./fonts/Urbanist/Urbanist-SemiBold.ttf') format('truetype'),
+        url('./fonts/Urbanist/Urbanist-SemiBold.svg#./fonts/Urbanist/Urbanist-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('./fonts/Urbanist/Urbanist-Regular.eot');
+    src: url('./fonts/Urbanist/Urbanist-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Urbanist/Urbanist-Regular.woff2') format('woff2'),
+        url('./fonts/Urbanist/Urbanist-Regular.woff') format('woff'),
+        url('./fonts/Urbanist/Urbanist-Regular.ttf') format('truetype'),
+        url('./fonts/Urbanist/Urbanist-Regular.svg#./fonts/Urbanist/Urbanist-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('./fonts/Urbanist/Urbanist-Bold.eot');
+    src: url('./fonts/Urbanist/Urbanist-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Urbanist/Urbanist-Bold.woff2') format('woff2'),
+        url('./fonts/Urbanist/Urbanist-Bold.woff') format('woff'),
+        url('./fonts/Urbanist/Urbanist-Bold.ttf') format('truetype'),
+        url('./fonts/Urbanist/Urbanist-Bold.svg#./fonts/Urbanist/Urbanist-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('./fonts/Urbanist/Urbanist-ExtraLight.eot');
+    src: url('./fonts/Urbanist/Urbanist-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Urbanist/Urbanist-ExtraLight.woff2') format('woff2'),
+        url('./fonts/Urbanist/Urbanist-ExtraLight.woff') format('woff'),
+        url('./fonts/Urbanist/Urbanist-ExtraLight.ttf') format('truetype'),
+        url('./fonts/Urbanist/Urbanist-ExtraLight.svg#./fonts/Urbanist/Urbanist-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('./fonts/Urbanist/Urbanist-Light.eot');
+    src: url('./fonts/Urbanist/Urbanist-Light.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Urbanist/Urbanist-Light.woff2') format('woff2'),
+        url('./fonts/Urbanist/Urbanist-Light.woff') format('woff'),
+        url('./fonts/Urbanist/Urbanist-Light.ttf') format('truetype'),
+        url('./fonts/Urbanist/Urbanist-Light.svg#./fonts/Urbanist/Urbanist-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+/*--- */
+
+@font-face {
+    font-family: 'Berlin Sans FB Demi';
+    src: url('./fonts/BerlinSansFBDemi/BerlinSansFBDemi-Bold.eot');
+    src: url('./fonts/BerlinSansFBDemi/BerlinSansFBDemi-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/BerlinSansFBDemi/BerlinSansFBDemi-Bold.woff2') format('woff2'),
+        url('./fonts/BerlinSansFBDemi/BerlinSansFBDemi-Bold.woff') format('woff'),
+        url('./fonts/BerlinSansFBDemi/BerlinSansFBDemi-Bold.ttf') format('truetype'),
+        url('./fonts/BerlinSansFBDemi/BerlinSansFBDemi-Bold.svg#BerlinSansFBDemi-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

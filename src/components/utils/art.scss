@@ -1,0 +1,39 @@
+.art-item {
+  background: linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.01),
+    rgba(255, 255, 255, 0.16)
+  );
+  padding: 20px;
+  display: flex;
+  border-radius: 20px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1.2;
+  width: 100%;
+  height: 100%;
+  div {
+    cursor: pointer;
+    border-radius: 20px;
+    width: 100%;
+    img {
+      width: 100%;
+      transition: all 0.3s;
+    }
+  }
+  p {
+    flex: 1;
+    margin-bottom: 0;
+    padding-top: 20px;
+  }
+}
+
+.art-item {
+  div {
+    overflow: hidden;
+  }
+  img:hover {
+    transform: scale(1.1);
+  }
+}

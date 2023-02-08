@@ -1,0 +1,130 @@
+@font-face {
+    font-family: 'Urbanist';
+    src: url('Urbanist-Black.eot');
+    src: url('Urbanist-Black.eot?#iefix') format('embedded-opentype'),
+        url('Urbanist-Black.woff2') format('woff2'),
+        url('Urbanist-Black.woff') format('woff'),
+        url('Urbanist-Black.ttf') format('truetype'),
+        url('Urbanist-Black.svg#Urbanist-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('Urbanist-MediumItalic.eot');
+    src: url('Urbanist-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Urbanist-MediumItalic.woff2') format('woff2'),
+        url('Urbanist-MediumItalic.woff') format('woff'),
+        url('Urbanist-MediumItalic.ttf') format('truetype'),
+        url('Urbanist-MediumItalic.svg#Urbanist-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('Urbanist-SemiBoldItalic.eot');
+    src: url('Urbanist-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Urbanist-SemiBoldItalic.woff2') format('woff2'),
+        url('Urbanist-SemiBoldItalic.woff') format('woff'),
+        url('Urbanist-SemiBoldItalic.ttf') format('truetype'),
+        url('Urbanist-SemiBoldItalic.svg#Urbanist-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('Urbanist-ExtraLightItalic.eot');
+    src: url('Urbanist-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Urbanist-ExtraLightItalic.woff2') format('woff2'),
+        url('Urbanist-ExtraLightItalic.woff') format('woff'),
+        url('Urbanist-ExtraLightItalic.ttf') format('truetype'),
+        url('Urbanist-ExtraLightItalic.svg#Urbanist-ExtraLightItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('Urbanist-ExtraBold.eot');
+    src: url('Urbanist-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Urbanist-ExtraBold.woff2') format('woff2'),
+        url('Urbanist-ExtraBold.woff') format('woff'),
+        url('Urbanist-ExtraBold.ttf') format('truetype'),
+        url('Urbanist-ExtraBold.svg#Urbanist-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('Urbanist-SemiBold.eot');
+    src: url('Urbanist-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Urbanist-SemiBold.woff2') format('woff2'),
+        url('Urbanist-SemiBold.woff') format('woff'),
+        url('Urbanist-SemiBold.ttf') format('truetype'),
+        url('Urbanist-SemiBold.svg#Urbanist-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('Urbanist-Regular.eot');
+    src: url('Urbanist-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Urbanist-Regular.woff2') format('woff2'),
+        url('Urbanist-Regular.woff') format('woff'),
+        url('Urbanist-Regular.ttf') format('truetype'),
+        url('Urbanist-Regular.svg#Urbanist-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('Urbanist-Bold.eot');
+    src: url('Urbanist-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Urbanist-Bold.woff2') format('woff2'),
+        url('Urbanist-Bold.woff') format('woff'),
+        url('Urbanist-Bold.ttf') format('truetype'),
+        url('Urbanist-Bold.svg#Urbanist-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('Urbanist-ExtraLight.eot');
+    src: url('Urbanist-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Urbanist-ExtraLight.woff2') format('woff2'),
+        url('Urbanist-ExtraLight.woff') format('woff'),
+        url('Urbanist-ExtraLight.ttf') format('truetype'),
+        url('Urbanist-ExtraLight.svg#Urbanist-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('Urbanist-Light.eot');
+    src: url('Urbanist-Light.eot?#iefix') format('embedded-opentype'),
+        url('Urbanist-Light.woff2') format('woff2'),
+        url('Urbanist-Light.woff') format('woff'),
+        url('Urbanist-Light.ttf') format('truetype'),
+        url('Urbanist-Light.svg#Urbanist-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
